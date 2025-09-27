@@ -4,3 +4,9 @@
         p {
             font-size: 140%;
         }
+
+        #btn-1 {
+            background-color: antiquewhite;
+            color: brown;
+            padding: 10px;
+        }

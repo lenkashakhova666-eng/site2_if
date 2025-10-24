@@ -1,2 +1,2 @@
 # site2_if
-Engineering Faculty Site by ShahovaEV
+Shahova CV site
